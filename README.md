@@ -1,0 +1,2 @@
+# ModMail
+Hosting on heroku
